@@ -1,0 +1,1 @@
+Ceci est un exercice sur une Classe Rectangle avec un héritage pour une classe Carre
